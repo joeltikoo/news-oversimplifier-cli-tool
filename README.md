@@ -2,12 +2,17 @@
 
 A simple Python command-line tool that fetches recent news articles based on a search query using [NewsAPI](https://newsapi.org/) and summarizes the article content using extractive summarization. You can also save the summaries to a text file.
 
+
+---
+
 #### CS50P
 
 Built for my CS50P final project.
 
 ![certificate.png](certificate.png)
 
+
+---
 
 ## Features
 
@@ -142,7 +147,7 @@ Would you like to save this in a text file? (y/n): y
 1. Add a text-to-speech (tts) feature
 2. Save summaries in a custom filename and type as per user's choice
 3. Support for multiple languages instead of just English
-4. Shifting from CLI to web-based interface using Flask or an app-like GUI using tkinter
+4. Shifting from CLI to web-based interface using `Flask` or an app-like GUI using `tkinter`
 
 Feel free to recommend more features or optimizations or better tests!
 
